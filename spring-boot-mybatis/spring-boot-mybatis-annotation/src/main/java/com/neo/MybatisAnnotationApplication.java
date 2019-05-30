@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @MapperScan("com.neo.mapper")
 public class MybatisAnnotationApplication {
-
+//sssssssssssssssss
 	public static void main(String[] args) {
 		SpringApplication.run(MybatisAnnotationApplication.class, args);
 	}
